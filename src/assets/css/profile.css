@@ -1,0 +1,18 @@
+.profileBg{
+    background: #701A1A;
+}
+.user{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+.icon{
+    width: 35px;
+    height: 35px;
+}
+@media screen and (max-width:380px) {
+    .user{
+        width: 70px;
+        height: 70px;
+    }
+}
